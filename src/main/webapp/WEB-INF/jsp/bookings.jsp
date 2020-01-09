@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Welcome</title>
+	<title>Bookings</title>
 	<link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
 </head>
@@ -9,7 +9,7 @@
 	<div class="container">
 		<h2 class="hello-title">Hello ${name}!</h2>
 		<table class="table table-striped">
-			<caption>Your todos are</caption>
+			<caption>bookings</caption>
 			<thead>
 				<tr>
 					<th>Description</th>
